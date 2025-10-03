@@ -1,3 +1,0 @@
-benz : je l’utilise pour ajouter le mot benz dans un fichier appelé mes_voitures.txt.
-toyota : je l’utilise pour ajouter le mot toyota dans ce fichier.
-honda : je l’utilise pour ajouter le mot honda dans ce fichier.
