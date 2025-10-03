@@ -1,0 +1,3 @@
+cuillere : je l’utilise pour ajouter le mot cuillere dans un fichier appelé cuisine.txt.
+marmite : je l’utilise pour ajouter le mot marmite dans ce fichier.
+couteau : je l’utilise pour ajouter le mot couteau dans ce fichier.
