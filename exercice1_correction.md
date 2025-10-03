@@ -33,7 +33,14 @@ cd .. : je l’utilise pour revenir au répertoire personnel.
 mv ami parent/ : je l’utilise pour déplacer le dossier ami dans le dossier parent.
 
 pwd : je l’utilise pour afficher le chemin absolu où je me trouve.
+<<<<<<< HEAD
 
 
 
 ![](image/exo1_capture1.png)
+=======
+ 
+
+
+ ![rir](exercice1_correction.md)
+>>>>>>> 82e2331 (nu!hn!)

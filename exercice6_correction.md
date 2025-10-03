@@ -27,4 +27,16 @@ mv banque.txt medical.txt documents/ : je l’utilise pour déplacer les fichier
 
 rm .mdp : je l’utilise pour supprimer uniquement le fichier caché .mdp.
 
+<<<<<<< HEAD
 ![](image/exo6-CAPTURE6.png)
+=======
+
+
+
+
+
+
+
+
+![](exercice6_correction.md)
+>>>>>>> 82e2331 (nu!hn!)

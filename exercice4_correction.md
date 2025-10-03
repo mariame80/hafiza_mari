@@ -21,4 +21,12 @@ touch gomme.txt : je l’utilise pour créer un fichier vide appelé gomme.txt.
 mv gomme.txt crayons/ : je l’utilise pour déplacer le fichier gomme.txt dans le dossier crayons.
 
 
+<<<<<<< HEAD
 ![](image/exo4_capture4.png)
+=======
+
+
+
+
+![](exercice4_correction.md)
+>>>>>>> 82e2331 (nu!hn!)

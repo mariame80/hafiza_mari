@@ -28,4 +28,8 @@ ls : je l’utilise pour lister le contenu du dossier conteneur et voir les sous
 
 
 
+<<<<<<< HEAD
 ![](image/Exo2_capture2.png)
+=======
+![](exercice2_correction.md)
+>>>>>>> 82e2331 (nu!hn!)

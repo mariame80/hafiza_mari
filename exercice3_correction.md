@@ -18,4 +18,10 @@ mkdir buzz : je l’utilise pour créer un nouveau dossier appelé buzz dans act
 
 
 
+<<<<<<< HEAD
 ![](image/eco3_capture3.png)
+=======
+
+
+![](exercice3_correction.md)
+>>>>>>> 82e2331 (nu!hn!)
