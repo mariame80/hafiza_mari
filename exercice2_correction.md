@@ -25,3 +25,7 @@ cat cuisine.txt : je l’utilise pour vérifier le contenu du fichier cuisine.tx
 cd .. : je l’utilise pour revenir dans le dossier conteneur.
 
 ls : je l’utilise pour lister le contenu du dossier conteneur et voir les sous-dossiers (voitures, ustensiles, electronique).
+
+
+
+![](image/Exo2_capture2.png)

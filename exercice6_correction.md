@@ -26,3 +26,5 @@ mkdir documents : je l’utilise pour créer un dossier appelé documents.
 mv banque.txt medical.txt documents/ : je l’utilise pour déplacer les fichiers banque.txt et medical.txt dans le dossier documents.
 
 rm .mdp : je l’utilise pour supprimer uniquement le fichier caché .mdp.
+
+![](image/exo6-CAPTURE6.png)

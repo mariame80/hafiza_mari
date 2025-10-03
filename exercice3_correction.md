@@ -15,3 +15,7 @@ echo "Seini" >> candidats.txt : je l’utilise pour ajouter Seini dans le fichie
 cd ../.. : je l’utilise pour remonter de deux niveaux et revenir dans le dossier actualites.               
 
 mkdir buzz : je l’utilise pour créer un nouveau dossier appelé buzz dans actualites.
+
+
+
+![](image/eco3_capture3.png)

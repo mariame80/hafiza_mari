@@ -19,3 +19,6 @@ cd .. : je l’utilise pour revenir dans le dossier creations.
 touch gomme.txt : je l’utilise pour créer un fichier vide appelé gomme.txt.
 
 mv gomme.txt crayons/ : je l’utilise pour déplacer le fichier gomme.txt dans le dossier crayons.
+
+
+![](image/exo4_capture4.png)
